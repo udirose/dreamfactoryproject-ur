@@ -1,16 +1,25 @@
-button {
-  background-color: rgb(126, 136, 151);
-  border-style: none;
-  font-family:Helvetica;
-  color: rgb(246, 249, 252);
-  border: 20px;
-  border-radius: 0px;
+
+
+.navbar{
+  overflow: hidden;
+}
+
+.navbar a {
+  float: left;
+  color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
+  text-align: center;
+  padding: 15px 15px;
+  font-size: 18px;
+}
+
+.navbar a:hover{
+  color:rgb(64,64,64);
 }
 
 
-
 h1 {
-  font-family:cursive;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 /*
